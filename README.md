@@ -66,29 +66,29 @@ Build H-a-c-k-e-r-s-m-a-n-i-a.github.io from the source and install dependencies
    ❯ git clone https://github.com/H-a-c-k-e-r-s-m-a-n-i-a/H-a-c-k-e-r-s-m-a-n-i-a.github.io
 Navigate to the project directory:
 
-text
-❯ cd H-a-c-k-e-r-s-m-a-n-i-a.github.io
-Install the dependencies:
-
+2. **Navigate to the project directory**:
+   ```sh
+   ❯ cd H-a-c-k-e-r-s-m-a-n-i-a.github.io
+3. **Install the dependencies**:
 Using npm:
 
-text
-❯ npm install
+   ```sh
+    ❯ npm install
 Usage
 Run the project with:
 
 Using npm:
 
-text
-npm start
+    ```sh
+    ❯ npm start
 Testing
 H-a-c-k-e-r-s-m-a-n-i-a.github.io uses the {test_framework} test framework. Run the test suite with:
 
 Using npm:
 
-text
-npm test
+    ```sh
+    ❯ npm test
+
 <div align="right">
 ⬆ Return
-
-</div> ```
+</div>
