@@ -93,6 +93,7 @@ Using npm:
 ```sh
 ❯ npm test
 ```
-[<div align="right">
-[⬆ Return]
-</div>](#top)
+
+<div align="right">
+  <a href="#top">⬆ Return</a>
+</div>
