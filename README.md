@@ -64,6 +64,7 @@ Build H-a-c-k-e-r-s-m-a-n-i-a.github.io from the source and install dependencies
 
    ```sh
    ❯ git clone https://github.com/H-a-c-k-e-r-s-m-a-n-i-a/H-a-c-k-e-r-s-m-a-n-i-a.github.io
+   
 Navigate to the project directory:
 
 2. **Navigate to the project directory**:
@@ -79,8 +80,9 @@ Using npm:
 Run the project with:
 Using npm:
 
-```sh
-❯ npm start
+  ```sh
+  ❯ npm start
+  ```
 
 **Testing**
 H-a-c-k-e-r-s-m-a-n-i-a.github.io uses the {test_framework} test framework. Run the test suite with:
@@ -88,7 +90,7 @@ H-a-c-k-e-r-s-m-a-n-i-a.github.io uses the {test_framework} test framework. Run 
 Using npm:
 ```sh
 ❯ npm test
-
+```
 <div align="right">
 [![⬆ Return](#overview)
 </div>
