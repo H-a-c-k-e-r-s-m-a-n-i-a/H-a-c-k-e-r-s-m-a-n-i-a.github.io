@@ -73,7 +73,7 @@ Navigate to the project directory:
 Using npm:
 
    ```sh
-    ❯ npm install
+   ❯ npm install
 Usage
 Run the project with:
 
