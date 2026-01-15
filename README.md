@@ -64,17 +64,19 @@ Build H-a-c-k-e-r-s-m-a-n-i-a.github.io from the source and install dependencies
 
    ```sh
    ❯ git clone https://github.com/H-a-c-k-e-r-s-m-a-n-i-a/H-a-c-k-e-r-s-m-a-n-i-a.github.io
-   
+   ```
 Navigate to the project directory:
 
 2. **Navigate to the project directory**:
    ```sh
    ❯ cd H-a-c-k-e-r-s-m-a-n-i-a.github.io
+   ```
 3. **Install the dependencies**:
 Using npm:
 
    ```sh
    ❯ npm install
+   ```
 **Usage**
 
 Run the project with:
@@ -92,5 +94,5 @@ Using npm:
 ❯ npm test
 ```
 <div align="right">
-[![⬆ Return](#overview)
+[⬆ Return](#h-a-c-k-e-r-s-m-a-n-i-a.github.io)
 </div>
