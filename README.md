@@ -80,6 +80,7 @@ Using npm:
 **Usage**
 
 Run the project with:
+
 Using npm:
 
   ```sh
@@ -87,6 +88,7 @@ Using npm:
   ```
 
 **Testing**
+
 H-a-c-k-e-r-s-m-a-n-i-a.github.io uses the {test_framework} test framework. Run the test suite with:
   
 Using npm:
