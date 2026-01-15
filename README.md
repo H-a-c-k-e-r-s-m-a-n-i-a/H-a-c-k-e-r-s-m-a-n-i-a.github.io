@@ -94,5 +94,5 @@ Using npm:
 ❯ npm test
 ```
 <div align="right">
-[⬆ Return](#h-a-c-k-e-r-s-m-a-n-i-a.github.io)
+[⬆ Return](#top)
 </div>
