@@ -74,18 +74,16 @@ Using npm:
 
    ```sh
    ❯ npm install
-Usage
+**Usage**
 Run the project with:
-
 Using npm:
+   ```sh
+   ❯ npm start
 
-    ```sh
-    ❯ npm start
-Testing
+**Testing**
 H-a-c-k-e-r-s-m-a-n-i-a.github.io uses the {test_framework} test framework. Run the test suite with:
 
 Using npm:
-
     ```sh
     ❯ npm test
 
